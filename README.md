@@ -59,6 +59,7 @@ To complete Part II, fulfill the following requirements:
     * **Inside** of this nav, create a ```ul``` element.
      * **Inside** of this ul, create **3 li** elements.
       * Each ```li``` will contain an ```a``` element as follows. The ```href``` attribute will contain a page link that will take us to the section with that id on the page.
+      
       ```
       <ul>
         <li><a href="#green-portal">Green!</a></li>
