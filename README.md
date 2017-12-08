@@ -73,30 +73,30 @@ To complete Part II, fulfill the following requirements:
             * For the third ```li``` element, set the ```href``` attribute to "#red-portal". In the text portion of the element, set it to "Red!".
 
   2. Create a ```div``` with a ```class``` of "section" and ```id``` of "welcome".
-    * **Inside** of this div, create an ```h1``` element. In the text portion of this element, type out a greeting to the person that's on your page!
+      * **Inside** of this div, create an ```h1``` element. In the text portion of this element, type out a greeting to the person that's on your page!
 
-    ```
-    <div class="section" id="welcome">
-      <h1>Welcome wanderer, which portal will you choose?</h1>
-    </div>
-    ```
+      ```
+      <div class="section" id="welcome">
+        <h1>Welcome wanderer, which portal will you choose?</h1>
+      </div>
+      ```
   3. Create a ```div``` with a ```class``` of "section" and ```id``` of "green-portal".
-    * **Inside** of this div, create the following:
-      * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
-      * Create an ```a``` element. In the text portion type out "Somewhere Green!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere green.
-      * Create an ```a``` element. In the text portion type out "Somewhere Peaceful!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere peaceful.
-      * Create an ```a``` element. In the text portion type out "Somewhere Grassy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere grassy.
+      * **Inside** of this div, create the following:
+          * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
+          * Create an ```a``` element. In the text portion type out "Somewhere Green!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere green.
+          * Create an ```a``` element. In the text portion type out "Somewhere Peaceful!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere peaceful.
+          * Create an ```a``` element. In the text portion type out "Somewhere Grassy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere grassy.
 
   4. Create a ```div``` with a ```class``` of "section" and ```id``` of "yellow-portal".
-    * **Inside** of this div, create the following:
-      * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
-      * Create an ```a``` element. In the text portion type out "Somewhere Yellow!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere yellow.
-      * Create an ```a``` element. In the text portion type out "Somewhere with Sunshine!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere with sunshine.
-      * Create an ```a``` element. In the text portion type out "Somewhere Smiley!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere smiley.
+      * **Inside** of this div, create the following:
+          * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
+          * Create an ```a``` element. In the text portion type out "Somewhere Yellow!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere yellow.
+          * Create an ```a``` element. In the text portion type out "Somewhere with Sunshine!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere with sunshine.
+          * Create an ```a``` element. In the text portion type out "Somewhere Smiley!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere smiley.
 
   5. Create a ```div``` with a ```class``` of "section" and ```id``` of "red-portal".
-    * **Inside** of this div, create the following:
-      * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
-      * Create an ```a``` element. In the text portion type out "Somewhere Red!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere red.
-      * Create an ```a``` element. In the text portion type out "Somewhere Warm!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere warm.
-      * Create an ```a``` element. In the text portion type out "Somewhere Happy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere happy.
+      * **Inside** of this div, create the following:
+          * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
+          * Create an ```a``` element. In the text portion type out "Somewhere Red!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere red.
+          * Create an ```a``` element. In the text portion type out "Somewhere Warm!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere warm.
+          * Create an ```a``` element. In the text portion type out "Somewhere Happy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere happy.
