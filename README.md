@@ -16,8 +16,7 @@ To complete this project, students should have the following:
 
 HTML | Description
 -----|------------
-HTML | **H** yper **T** ext **M** arkup
-**L** anguage used to create the structure of web pages.
+HTML | **H** yper **T** ext **M** arkup **L** anguage used to create the structure of web pages.
 element | An element is an individual part, or a building block, of a web page.
 attribute | A modifier of an **element**.
 <ul> | An **HTML Tag** used to create an ```unordered list``` **element**.
