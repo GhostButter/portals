@@ -19,9 +19,9 @@ HTML | Description
 HTML | **H** yper **T** ext **M** arkup **L** anguage used to create the structure of web pages.
 element | An element is an individual part, or a building block, of a web page.
 attribute | A modifier of an **element**.
-<ul> | An **HTML Tag** used to create an ```unordered list``` **element**.
-<li> | An **HTML Tag** used to create a ```list item``` **element**.
-<a> | An **HTML Tag** used to create a ```link``` **element**.
+ul | An **HTML Tag** used to create an ```unordered list``` **element**.
+li | An **HTML Tag** used to create a ```list item``` **element**.
+a | An **HTML Tag** used to create a ```link``` **element**.
 href | An **attribute** used to specify the link destination.
 
 CSS | Description
