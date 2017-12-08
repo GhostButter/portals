@@ -56,21 +56,21 @@ To complete Part II, fulfill the following requirements:
 1. Create a ```div``` with a ```class``` of "container".
 * **Inside** of this div, create the following:
   1. Create a ```nav``` with an ```id``` of "nav-bar".
-    * **Inside** of this nav, create a ```ul``` element.
-       * **Inside** of this ul, create **3 li** elements.
-          * Each ```li``` will contain an ```a``` element as follows. The ```href``` attribute will contain a page link that will take us to the section with that id on the page.
+      * **Inside** of this nav, create a ```ul``` element.
+         * **Inside** of this ul, create **3 li** elements.
+            * Each ```li``` will contain an ```a``` element as follows. The ```href``` attribute will contain a page link that will take us to the section with that id on the page.
 
-          ```
-          <ul>
-            <li><a href="#green-portal">Green!</a></li>
-          </ul>
-          ```
+            ```
+            <ul>
+              <li><a href="#green-portal">Green!</a></li>
+            </ul>
+            ```
 
-          * For the first ```li``` element, set the ```href``` attribute to "#green-portal". In the text portion of the element, set it to "Green!".
+            * For the first ```li``` element, set the ```href``` attribute to "#green-portal". In the text portion of the element, set it to "Green!".
 
-          * For the second ```li``` element, set the ```href``` attribute to "#yellow-portal". In the text portion of the element, set it to "Yellow!".
+            * For the second ```li``` element, set the ```href``` attribute to "#yellow-portal". In the text portion of the element, set it to "Yellow!".
 
-          * For the third ```li``` element, set the ```href``` attribute to "#red-portal". In the text portion of the element, set it to "Red!".
+            * For the third ```li``` element, set the ```href``` attribute to "#red-portal". In the text portion of the element, set it to "Red!".
 
   2. Create a ```div``` with a ```class``` of "section" and ```id``` of "welcome".
     * **Inside** of this div, create an ```h1``` element. In the text portion of this element, type out a greeting to the person that's on your page!
