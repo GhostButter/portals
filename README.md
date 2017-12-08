@@ -59,7 +59,7 @@ To complete Part II, fulfill the following requirements:
     * **Inside** of this nav, create a ```ul``` element.
      * **Inside** of this ul, create **3 li** elements.
       * Each ```li``` will contain an ```a``` element as follows. The ```href``` attribute will contain a page link that will take us to the section with that id on the page.
-      ```HTML5
+      ```
       <ul>
         <li><a href="#green-portal">Green!</a></li>
       </ul>
@@ -74,7 +74,7 @@ To complete Part II, fulfill the following requirements:
   2. Create a ```div``` with a ```class``` of "section" and ```id``` of "welcome".
     * **Inside** of this div, create an ```h1``` element. In the text portion of this element, type out a greeting to the person that's on your page!
 
-    ```HTML5
+    ```
     <div class="section" id="welcome">
       <h1>Welcome wanderer, which portal will you choose?</h1>
     </div>
@@ -98,4 +98,4 @@ To complete Part II, fulfill the following requirements:
       * Create an ```h1``` element with some text to greet the person that arrived at this part of your page.
       * Create an ```a``` element. In the text portion type out "Somewhere Red!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere red.
       * Create an ```a``` element. In the text portion type out "Somewhere Warm!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere warm.
-      * Create an ```a``` element. In the text portion type out "Somewhere Happy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere happy. 
+      * Create an ```a``` element. In the text portion type out "Somewhere Happy!". In the ```href``` attribute, copy and paste the URL of a website that depicts somewhere happy.
