@@ -18,12 +18,12 @@ HTML | Description
 -----|------------
 HTML | **H** yper **T** ext **M** arkup **L** anguage used to create the structure of web pages.
 element | An element is an individual part, or a building block, of a web page.
-attribute | A modifier of an **element**.
-nav | An **HTML Tag** that defines a set of navigation links.
-ul | An **HTML Tag** used to create an ```unordered list``` **element**.
-li | An **HTML Tag** used to create a ```list item``` **element**.
-a | An **HTML Tag** used to create a ```link``` **element**.
-href | An **attribute** used to specify the link destination.
+attribute | A modifier of an element.
+nav | A navigation element*.
+ul | An ```unordered list``` element.
+li | A ```list item``` element.
+a | A ```link``` element.
+href | An attribute used to specify the link destination.
 
 CSS | Description
 ----|------------
@@ -134,4 +134,4 @@ Now, check your items in the browser and try clicking on the links! Are they tak
 
 ### Stretch Goals
 1. In each colored section, create a link that will take the users back to the top of the page!
-2. Add an image to each section! 
+2. Add an image to each section!
