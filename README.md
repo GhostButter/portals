@@ -19,10 +19,11 @@ HTML | Description
 HTML | **H** yper **T** ext **M** arkup **L** anguage used to create the structure of web pages.
 element | An element is an individual part, or a building block, of a web page.
 attribute | A modifier of an element.
-div | A container element. 
+div | A container element.
 nav | A navigation element.
 ul | An unordered list element.
 li | A list item element.
+img | An image element. 
 a | A link element.
 href | An attribute used to specify the link destination.
 
