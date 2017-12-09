@@ -19,10 +19,10 @@ HTML | Description
 HTML | **H** yper **T** ext **M** arkup **L** anguage used to create the structure of web pages.
 element | An element is an individual part, or a building block, of a web page.
 attribute | A modifier of an element.
-nav | A navigation element*.
-ul | An ```unordered list``` element.
-li | A ```list item``` element.
-a | A ```link``` element.
+nav | A navigation element.
+ul | An unordered list element.
+li | A list item element.
+a | A link element.
 href | An attribute used to specify the link destination.
 
 CSS | Description
@@ -105,29 +105,17 @@ To complete Part II, fulfill the following requirements:
 
 To complete Part III, fulfill the following requirements:
 
-1. Target the ```class``` of "container".
-* Set the ```height``` to ```calc(100vh)```. This value will calculate the full view height (vh).
-* Set the ```width``` to ```calc(100vw)```. This value will calculate the full view width (vw).
-2. Target the ```id``` of "nav-bar".
-* Set the ```width``` to 100%.
-* Set the ```height``` to 10%. This means that your navigation bar will be 10% of its parent's height. In this case, the parent element is the container because nav element is within the container.
-* Activate Flexbox!
-* Center the items horizontally and vertically using Flexbox.
-* Set the ```font-size``` to 50px.
-3. Target the ```ul``` element. *Hint: How do we target elements by themselves, without classes or ids?*
-* Set the ```width``` to 50%.
-* Set the ```height``` to auto. Auto will automatically set the height of the ```ul``` element to be whatever the height of the inner items are.
-4. Target the ```class``` of "section".
+1. Target the ```class``` of "section".
 * Set the ```width``` to 100%.
 * Set the ```height``` to 400px.
 * Set the ```margin-top``` to 2000px. This makes the items very far apart from each other.
-5. Target the ```id``` of "welcome".
+2. Target the ```id``` of "welcome".
 * Set the ```margin-top``` to 0px. This overrides the ```margin-top: 2000px``` that we set on its class because we are targeting this item more specifically (id is more specific than class).
-6. Target the ```id``` of "green-portal".
+3. Target the ```id``` of "green-portal".
 * Set the ```background-color``` to green.
-7. Target the ```id``` of "yellow-portal".
+4. Target the ```id``` of "yellow-portal".
 * Set the ```background-color``` to yellow.
-8. Target the ```id``` of "red-portal".
+5. Target the ```id``` of "red-portal".
 * Set the ```background-color``` to red.
 
 Now, check your items in the browser and try clicking on the links! Are they taking you to the right places?
